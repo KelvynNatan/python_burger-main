@@ -1,0 +1,5 @@
+git add .
+git commit -m "segund commit"   
+git push -u origin main
+
+"Sempre mudar o nome do commit"

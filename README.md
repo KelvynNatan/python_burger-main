@@ -190,7 +190,7 @@ Este projeto está licenciado sob a MIT License.
 
 ## 🏆 Créditos
 
-Desenvolvido com ❤️ por Alexandre Santos para a comunidade Python.
+Desenvolvido com ❤️ por Kelvyn Natan para a comunidade Python.
 
 **Python Burger** - Onde código e sabor se encontram! 🐍🍔
 
